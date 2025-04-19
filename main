@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vetrina Piante Carnivore</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Vetrina Piante Carnivore</h1>
+    <div class="gallery">
+        <!-- Pianta 1: Drosera Capensis -->
+        <div class="plant">
+            <img src="images/pianta1.jpg" alt="Drosera Capensis">
+            <a href="piante/drosera.html">Drosera Capensis</a>
+        </div>
+
+        <!-- Pianta 2: Pinco -->
+        <div class="plant">
+            <img src="images/pinco.jpg" alt="Pinco">
+            <a href="piante/pinco.html">Pinco</a>
+        </div>
+
+        <!-- Pianta 3: Pallino -->
+        <div class="plant">
+            <img src="images/pallino.jpg" alt="Pallino">
+            <a href="piante/pallino.html">Pallino</a>
+        </div>
+    </div>
+</body>
+</html>
