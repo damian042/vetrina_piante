@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drosera Capensis</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <h1>Drosera Capensis</h1>
+    <div class="details">
+        <img src="../images/pianta1.jpg" alt="Drosera Capensis">
+        <p>Una delle piante carnivore più facili da coltivare. Utilizza i suoi tentacoli appiccicosi per catturare piccoli insetti.</p>
+    </div>
+    <a href="../index.html">Torna alla Vetrina</a>
+</body>
+</html>
