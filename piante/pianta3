@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pallino</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <h1>Pallino</h1>
+    <div class="details">
+        <img src="../images/pianta3.jpg" alt="Pallino">
+        <p>Pallino è un'altra pianta immaginaria usata come esempio. Qui puoi aggiungere una descrizione reale o dettagli sulla pianta.</p>
+    </div>
+    <a href="../index.html">Torna alla Vetrina</a>
+</body>
+</html>
