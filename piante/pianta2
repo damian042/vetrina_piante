@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pinco</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <h1>Pinco</h1>
+    <div class="details">
+        <img src="../images/pianta2.jpg" alt="Pinco">
+        <p>Pinco è una pianta immaginaria usata come esempio. Qui puoi inserire una descrizione reale o dettagli sulla pianta.</p>
+    </div>
+    <a href="../index.html">Torna alla Vetrina</a>
+</body>
+</html>
